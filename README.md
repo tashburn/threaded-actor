@@ -28,6 +28,3 @@ Use like this:
             pass
 
 See the unit test for examples.
-
-"""
-
